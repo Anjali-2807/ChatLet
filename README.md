@@ -8,6 +8,6 @@
 
 - Optimized performance and ensured cross-browser compatibility.
 
-- LIVE DEMO : https://chatlet.onrender.com
+- LIVE DEMO (Deployed) : https://chatlet.onrender.com
 
 
